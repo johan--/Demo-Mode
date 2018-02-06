@@ -2,3 +2,7 @@ bin/
 gen/
 deploy/
 .project
+
+.idea/
+*.swp
+
